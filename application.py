@@ -26,6 +26,6 @@ for file in res["tree"]:
 
 ### Making Streamlit app layout and setting up app controls ###
 
-st.title('WebApp One')
+#st.title('WebApp One')
 #if i in [j.replace('.csv', '') for j in os.listdir(Dir)]:
 #st.write(os.listdir(Dir))
