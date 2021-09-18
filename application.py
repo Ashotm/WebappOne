@@ -6,7 +6,7 @@ import plotly.express as px
 import os
 import datetime as dt
 import requests
-
+st.set_page_config(layout='wide')
 ### Defining global variables ###
 
 ProductsDict = {'Mortgage': 1, 'Consumer loans': 2, 'Credit Card': 3, 'SME': 4, 'Student loans': 5, 'Auto loans': 6}
