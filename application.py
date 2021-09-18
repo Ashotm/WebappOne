@@ -17,4 +17,4 @@ Dir = 'https://raw.githubusercontent.com/Ashotm/WebappOne/tree/main/data/'
 st.set_page_config(layout='wide')
 st.title('WebApp One')
 #if i in [j.replace('.csv', '') for j in os.listdir(Dir)]:
-st.wrinte(os.listdir(Dir))
+st.write(os.listdir(Dir))
