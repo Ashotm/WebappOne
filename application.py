@@ -19,4 +19,4 @@ repo = "WebappOne"
 url = "https://api.github.com/repos/Ashotm/WebappOne/git/trees/master?recursive=1".format(user, repo)
 r = requests.get(url)
 res = r.json()
-print(res)
+print(r)
