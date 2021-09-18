@@ -21,7 +21,4 @@ r = requests.get(url)
 res = r.json()
 
 for file in res["tree"]:
-    st.write((file["path"])
-
-
-
+    st.write(file["path"])
