@@ -10,7 +10,8 @@ import datetime as dt
 
 ProductsDict = {'Mortgage': 1, 'Consumer loans': 2, 'Credit Card': 3, 'SME': 4, 'Student loans': 5, 'Auto loans': 6}
 #Dir = r'C:\Users\Admin\Desktop\WEBAPPONE\data/'
-Dir = 'https://raw.githubusercontent.com/Ashotm/WebappOne/tree/main/data/'
+Dir = 'https://raw.githubusercontent.com/Ashotm/WebappOne/main/data/'
+
 
 ### Making Streamlit app layout and setting up app controls ###
 
