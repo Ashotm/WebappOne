@@ -14,7 +14,7 @@ ProductsDict = {'Mortgage': 1, 'Consumer loans': 2, 'Credit Card': 3, 'SME': 4, 
 #Dir = 'https://github.com/Ashotm/webappone/blob/master/data'
 
 #print(os.path.abspath(__file__))
-print(os.listdir("./app/webappone/data"))
+print(os.listdir("/app/webappone/data"))
 
 
 
