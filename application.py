@@ -11,6 +11,6 @@ st.set_page_config(layout='wide')
 
 ProductsDict = {'Mortgage': 1, 'Consumer loans': 2, 'Credit Card': 3, 'SME': 4, 'Student loans': 5, 'Auto loans': 6}
 #Dir = r'C:\Users\Admin\Desktop\WEBAPPONE\data/'
-Dir = 'https://github.com/Ashotm/webappone/blob/master/data'
+#Dir = 'https://github.com/Ashotm/webappone/blob/master/data'
 
-print(os.listdir(Dir))
+print(os.getcwd())
