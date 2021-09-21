@@ -9,7 +9,7 @@ import datetime as dt
 ### Defining global variables ###
 
 ProductsDict = {'Mortgage': 1, 'Consumer loans': 2, 'Credit Card': 3, 'SME': 4, 'Student loans': 5, 'Auto loans': 6}
-Dir = '/app/webappone/data'
+Dir = '/app/webappone/data/'
 
 ### Making Streamlit app layout and setting up app controls ###
 
