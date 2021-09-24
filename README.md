@@ -37,9 +37,14 @@ There are 12 randomly generated .csv files, all located in the 'data' folder, se
 
 * Below the silder is the multiselect bar, where user can select one or multiple products to be displayed on chart (multiselect bar do not affect the expander boxes, those are always displayed).
 
-# 6. Demo
+# 6a. Visual Demo
 
 https://user-images.githubusercontent.com/26896606/133501507-85ff43ec-21f4-49c2-bcbf-8a836a012e7f.mp4
+
+
+# 6b. Web Version
+
+https://share.streamlit.io/ashotm/webappone/main/application.py 
 
 # 7. Future updates
 There are some things, both functionality and appearance wise, that I am looking forward to adding to the Webapp One. First of all, I'd like to make a two page layout using radio button (since tabs are not available in Streamlit v0.87.0) for more diverse analysis (by product, by branch etc). Second, I'd like to improve on the overall appearance of the app: eliminate empty space and make charts visually appealing. Third, the speed. The app uses small .csv files, but with larger ones there will be speed issue.
