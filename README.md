@@ -18,7 +18,6 @@ Following libraries are required for Webapp One to run smoothly and without hicc
 
 * *datetime* for working with dates;
 
-* *os* paths and collecting files.
 
 # 3. The data
 There are 12 randomly generated .csv files, all located in the 'data' folder, serving as source for the Webapp One. Each file has 5 columns:
