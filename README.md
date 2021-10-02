@@ -3,7 +3,7 @@ This is my first attempt to build a webapp in Python, hence, Webapp One. The goa
 
 Webapp One is a data manipulation and visualization tool with interactive controls that lets users make changes and see the results on the fly.
 
-Webapp One consists of two sections: *settings bar* for selecting date, time horizon and the *output area* for displaying charts and tables.
+Webapp One consists of two sections: *settings bar* for selecting date, time horizon and *output area* for displaying charts and tables.
 
 This is by no means finished project and will be improved in future.
 
